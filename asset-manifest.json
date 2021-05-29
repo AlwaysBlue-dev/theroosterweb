@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/theroosterweb/static/css/main.e60f53b4.chunk.css",
+    "main.js": "/theroosterweb/static/js/main.cc895dac.chunk.js",
+    "main.js.map": "/theroosterweb/static/js/main.cc895dac.chunk.js.map",
+    "runtime-main.js": "/theroosterweb/static/js/runtime-main.2a9fbd7c.js",
+    "runtime-main.js.map": "/theroosterweb/static/js/runtime-main.2a9fbd7c.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/theroosterweb/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.f4faeee3.chunk.js": "/theroosterweb/static/js/2.f4faeee3.chunk.js",
+    "static/js/2.f4faeee3.chunk.js.map": "/theroosterweb/static/js/2.f4faeee3.chunk.js.map",
+    "index.html": "/theroosterweb/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/theroosterweb/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.e60f53b4.chunk.css.map": "/theroosterweb/static/css/main.e60f53b4.chunk.css.map",
+    "static/js/2.f4faeee3.chunk.js.LICENSE.txt": "/theroosterweb/static/js/2.f4faeee3.chunk.js.LICENSE.txt",
+    "static/media/deal1.925d8abf.jpg": "/theroosterweb/static/media/deal1.925d8abf.jpg",
+    "static/media/deal2.60f256ae.jpg": "/theroosterweb/static/media/deal2.60f256ae.jpg",
+    "static/media/deal3.8b58fc3d.jpg": "/theroosterweb/static/media/deal3.8b58fc3d.jpg",
+    "static/media/deal4.06ca4c89.jpg": "/theroosterweb/static/media/deal4.06ca4c89.jpg",
+    "static/media/deal5.934d9f3b.jpg": "/theroosterweb/static/media/deal5.934d9f3b.jpg",
+    "static/media/deal6.b62c2a08.jpg": "/theroosterweb/static/media/deal6.b62c2a08.jpg",
+    "static/media/deal7.a59037b2.jpg": "/theroosterweb/static/media/deal7.a59037b2.jpg",
+    "static/media/deal8.a047544f.jpg": "/theroosterweb/static/media/deal8.a047544f.jpg",
+    "static/media/menu.ddf88c6a.jpg": "/theroosterweb/static/media/menu.ddf88c6a.jpg",
+    "static/media/menu2.b89360f8.jpg": "/theroosterweb/static/media/menu2.b89360f8.jpg",
+    "static/media/pic1.a4a60b04.png": "/theroosterweb/static/media/pic1.a4a60b04.png",
+    "static/media/pic2.af287b3e.png": "/theroosterweb/static/media/pic2.af287b3e.png",
+    "static/media/pic3.6140f0bc.jpg": "/theroosterweb/static/media/pic3.6140f0bc.jpg",
+    "static/media/pic4.9078dddd.jpg": "/theroosterweb/static/media/pic4.9078dddd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a9fbd7c.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.f4faeee3.chunk.js",
+    "static/css/main.e60f53b4.chunk.css",
+    "static/js/main.cc895dac.chunk.js"
+  ]
+}
